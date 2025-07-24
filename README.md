@@ -20,6 +20,3 @@ The following topics are discussed:
 - Motors and Machines
 - Bearings and Actuators
 - Electrical Systems
-
-
-## [Assessment name]
